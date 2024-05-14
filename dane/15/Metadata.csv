@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,LG-H930,1715093331372,2024-05-07_14-48-51,Europe/Warsaw,android,1.32.0,4975ed59-3938-4731-bc65-3f1b6dc72fdb,Accelerometer|Location|Pedometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,10|0|10||10|10,false
